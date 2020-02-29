@@ -27,6 +27,7 @@ typedef struct	s_flags
 	int			type;
 }				t_flags;
 
+
 int				g_len;
 void			ft_hex_input1(char *hex);
 void			ft_put_hex1(char *hex, t_flags flags);
