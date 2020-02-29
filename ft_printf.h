@@ -6,7 +6,7 @@
 /*   By: murachid <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/19 13:57:29 by murachid          #+#    #+#             */
-/*   Updated: 2020/02/28 18:38:29 by murachid         ###   ########.fr       */
+/*   Updated: 2020/02/29 10:41:18 by murachid         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,6 @@ typedef struct	s_flags
 	int			dot;
 	int			type;
 }				t_flags;
-
 
 int				g_len;
 void			ft_hex_input1(char *hex);
